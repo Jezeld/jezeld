@@ -1,4 +1,16 @@
-### Hi there 👋
+
+
+<h1 align="center"> Hi 👋! My name is Evgenia
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EFF7F2&background=BB2649&center=true&vCenter=true&width=435&lines=%D0%AF+%E2%80%94+frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" />
+  </a>
+</p>
+<p>👩‍💻 Studying web development</p>
+<p>📝 I strive for a clean and beautiful code</p>
+<p>👩‍🎓 In September, I will write here that I graduated from Yandex.Practicum with a degree in Web Developer</p>
 
 <!--
 **Jezeld/jezeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2>Stack</h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
