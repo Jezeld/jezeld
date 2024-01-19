@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EFF7F2&background=BB2649&center=true&vCenter=true&width=435&lines=%D0%AF+%E2%80%94+frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" />
   </a>
 </p>
-<p>👩‍🎓 В сентябре окончила курсы Яндекс практикума по специальности Web Developer</p>
+<p>👩‍🎓 Окончила курсы Яндекс практикума по специальности Web Developer</p>
 <p>👩‍💻 Изучаю JS, React, хочу изучить TypeScript</p>
 <p>📝 Хочу писать чистый читаемый код </p>
 
